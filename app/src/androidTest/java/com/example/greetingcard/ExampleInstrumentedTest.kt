@@ -22,3 +22,4 @@ class ExampleInstrumentedTest {
         assertEquals("com.example.greetingcard", appContext.packageName)
     }
 }
+Text("Happy Birthday Sara")
